@@ -1,0 +1,14 @@
+.uno
+.dos {
+    font-size: 28px;
+    font-family: helvetica, "times new rome", sans-serif
+}
+
+.uno {
+    color: white;
+    background-color: black;
+}
+
+.dos { 
+    background-color: yellow;
+}
